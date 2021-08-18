@@ -5,13 +5,13 @@
 
 
 ## Experience
-#### SOFTWARE ENGINEER AT CADENCE DESIGN SYSTEMS [2018 - PRESENT]
+### SOFTWARE ENGINEER AT CADENCE DESIGN SYSTEMS [2018 - PRESENT]
 * Contribution in the development of a large project
 * Collaborating with colleagues across multiple development teams
 * Experience with AGILE software development
 
 
-#### CUSTOMER SUPPORT ENGINEER DOOBLO [2016]
+### CUSTOMER SUPPORT ENGINEER DOOBLO [2016]
 * Experience in programming prior to university degree
 * Providing code-snippets and support in Javascript
 * Communicating with clients worldwide in English
