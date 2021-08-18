@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Jonathan Wolf
+* email: jwolf16180@gmail.com
+* linkedin: /[in/jonathan-wolf-1774411b5](https://www.linkedin.com/)
+* github: [/wolfj123](https://github.com/wolfj123/)
 
-You can use the [editor on GitHub](https://github.com/wolfj123/wolfj123/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
+#### SOFTWARE ENGINEER AT CADENCE DESIGN SYSTEMS [2018 - PRESENT]
+* Contribution in the development of a large project
+* Collaborating with colleagues across multiple development teams
+* Experience with AGILE software development
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### CUSTOMER SUPPORT ENGINEER DOOBLO [2016]
+* Experience in programming prior to university degree
+* Providing code-snippets and support in Javascript
+* Communicating with clients worldwide in English
+Reason of leave: began studies for bachelor’s degree
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
+* Visual Studio Code plugin for Policy Models:
+https://github.com/wolfj123/PolicyModelsPlugin
+  * Various npm modules were created for this project:
+[tree-sitter-decisiongraph](https://www.npmjs.com/package/tree-sitter-decisiongraph), [tree-sitter-policyspace](https://www.npmjs.com/package/tree-sitter-policyspace), [tree-sitter-valueinference](https://www.npmjs.com/package/tree-sitter-valueinference)
+* Prediction of alloy properties using Neural Network 
+* Platformer video game built in Unity:
+https://wolfj123.itch.io/mustbuildfaster
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Education
+###### BEN GURION UNIVERSITY, BE’ER SHEVA
+* Bachelor of Software Engineering
+2016-2020
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Tools & Skills
+* Java, C#, Javascript, C, C++, Python, SQL, E, assembly x86
+* Web development using NodeJS and Vue.Js
+* Experience in Object Oriented Programming
+* Experience in Functional Programming
+* Version Control using git, perforce, clearcase
+* Experience with Linux
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Personal Skills
+* Productivity and efficiency oriented, fast learner, cooperative and highly motivated to acquire new skills and improve
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wolfj123/wolfj123/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Languages
+* Hebrew (native)
+* English (fluent)
+* French (limited)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
