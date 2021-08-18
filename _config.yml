@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
+title: "Jonathan Wolf"
 github:
   is_project_page: false
-  repository_name : "Jonathan Wolf"
+  # repository_name : "Jonathan Wolf"
   is_user_page: true
+  show_downloads: false
