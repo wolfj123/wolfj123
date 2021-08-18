@@ -20,12 +20,12 @@ Reason of leave: began studies for bachelor’s degree
 
 ## Projects
 * Visual Studio Code plugin for Policy Models:
-https://github.com/wolfj123/PolicyModelsPlugin
+[https://github.com/wolfj123/PolicyModelsPlugin](https://github.com/wolfj123/PolicyModelsPlugin)
   * Various npm modules were created for this project:
 [tree-sitter-decisiongraph](https://www.npmjs.com/package/tree-sitter-decisiongraph), [tree-sitter-policyspace](https://www.npmjs.com/package/tree-sitter-policyspace), [tree-sitter-valueinference](https://www.npmjs.com/package/tree-sitter-valueinference)
 * Prediction of alloy properties using Neural Network 
 * Platformer video game built in Unity:
-https://wolfj123.itch.io/mustbuildfaster
+[https://wolfj123.itch.io/mustbuildfaster](https://wolfj123.itch.io/mustbuildfaster)
 
 
 ## Education
