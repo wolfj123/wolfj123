@@ -11,7 +11,7 @@
 * Experience with AGILE software development
 
 
-##### CUSTOMER SUPPORT ENGINEER DOOBLO [2016]
+#### CUSTOMER SUPPORT ENGINEER DOOBLO [2016]
 * Experience in programming prior to university degree
 * Providing code-snippets and support in Javascript
 * Communicating with clients worldwide in English
@@ -29,7 +29,7 @@ https://wolfj123.itch.io/mustbuildfaster
 
 
 ## Education
-### BEN GURION UNIVERSITY, BE’ER SHEVA
+#### BEN GURION UNIVERSITY, BE’ER SHEVA
 * Bachelor of Software Engineering
 2016-2020
 
