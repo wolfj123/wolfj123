@@ -1,6 +1,6 @@
 # Jonathan Wolf
 * email: jwolf16180@gmail.com
-* linkedin: /[in/jonathan-wolf-se](https://www.linkedin.com/)
+* linkedin: /[in/jonathan-wolf-se](https://www.linkedin.com/in/jonathan-wolf-se)
 * github: [/wolfj123](https://github.com/wolfj123/)
 
 
