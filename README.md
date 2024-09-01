@@ -5,8 +5,8 @@
 
 
 ## Experience
-###### SOFTWARE ENGINEER AT CADENCE DESIGN SYSTEMS [2018 - PRESENT]
-* Contribution in the development of a large project
+###### LEAD SOFTWARE ENGINEER AT CADENCE DESIGN SYSTEMS [2018 - 2024]
+* Managing feature implementation from customer requirements to full deployment and testing
 * Collaborating with colleagues across multiple development teams
 * Experience with AGILE software development
 
@@ -15,8 +15,6 @@
 * Experience in programming prior to university degree
 * Providing code-snippets and support in Javascript
 * Communicating with clients worldwide in English
-Reason of leave: began studies for bachelor’s degree
-
 
 ## Projects
 * Visual Studio Code plugin for Policy Models:
@@ -34,7 +32,7 @@ https://wolfj123.itch.io/mustbuildfaster
 
 
 ## Tools & Skills
-* Java, C#, Javascript, C, C++, Python, SQL, E, assembly x86
+* Java, C#, Javascript, C, C++, Python, SQL, E
 * Web development using NodeJS and Vue.Js
 * Experience in Object Oriented Programming
 * Experience in Functional Programming
@@ -43,7 +41,7 @@ https://wolfj123.itch.io/mustbuildfaster
 
 
 ## Personal Skills
-* Productivity and efficiency oriented, fast learner, cooperative and highly motivated to acquire new skills and improve
+* Productivity and efficiency oriented, fast learner, cooperative and highly motivated to acquire new skills and new technologies
 
 
 ## Languages
