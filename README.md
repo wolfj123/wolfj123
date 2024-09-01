@@ -33,7 +33,7 @@ https://wolfj123.itch.io/mustbuildfaster
 
 ## Tools & Skills
 * Java, C#, Javascript, C, C++, Python, SQL, E
-* Web development using NodeJS and Vue.Js
+* Application development using NodeJS
 * Experience in Object Oriented Programming
 * Experience in Functional Programming
 * Version Control using git, perforce, clearcase
