@@ -24,10 +24,12 @@
   * Various npm modules were created for this project:
 [tree-sitter-decisiongraph](https://www.npmjs.com/package/tree-sitter-decisiongraph), [tree-sitter-policyspace](https://www.npmjs.com/package/tree-sitter-policyspace), [tree-sitter-valueinference](https://www.npmjs.com/package/tree-sitter-valueinference)
 
+### Computational Science Elective | HEMDA Center for Science Education | 2009 – 2011
+About HEMDA: [en.hemda.org.il](https://en.hemda.org.il/)
+#### Final Year Project
+* Prediction of alloy properties using Artificial Neural Network
 
 ### High School Education | Alliance Tel-Aviv
-#### Computational Science Elective | HEMDA Center for Science Education
-* Prediction of alloy properties using Artificial Neural Network
 
 
 ## TOOLS & SKILLS EXPERIENCE
