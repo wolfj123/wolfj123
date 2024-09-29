@@ -29,7 +29,7 @@ About HEMDA: [en.hemda.org.il](https://en.hemda.org.il/)
 #### Final Year Project
 * Prediction of alloy properties using Artificial Neural Network
 
-### High School Education | Alliance Tel-Aviv
+### High School Education | Alliance Tel-Aviv | 2007 – 2011
 
 
 ## TOOLS & SKILLS EXPERIENCE
