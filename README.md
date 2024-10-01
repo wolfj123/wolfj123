@@ -29,7 +29,7 @@ for which I have received an Innovation Recognition award
 
 ## EDUCATION
 ### Bachelor of Software Engineering | Ben Gurion University | 2016 – 2020
-#### University Projects
+#### University Project
 * Visual Studio Code plugin for [Policy Models](https://datatagginglibrary.readthedocs.io/en/latest/index.html#):
 
 ### High School Education | Alliance Tel-Aviv | 2007 – 2011
