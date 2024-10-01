@@ -16,7 +16,7 @@ for which I have received an Innovation Recognition award
 
 ### Customer Support Engineer | Dooblo | 2016
 * Created code-snippets for clients and full support in JavaScript
-* Provided technical support and current communications with clients, worldwide (in English)
+* Provided technical support and current communications with clients, worldwide
 
 ## TOOLS & SKILLS EXPERIENCE
 *	C#, JavaScript, E (skilled)
