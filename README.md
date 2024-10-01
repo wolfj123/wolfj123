@@ -11,8 +11,9 @@ Results-driven Software Engineer with 6+ years of experience building innovative
 * Successfully implemented an algorithmically complex feature within a tight deadline - 
 for which I have received an Innovation Recognition award
 * Managed feature implementations from customer requirements to full release and support 
-* Proactively led the implementation of a centralized knowledge-sharing platform
-* Consistently entrusted to support multiple teams, stepping into backend, frontend, and language parsing development roles
+* Proactively led the implementation of a centralized knowledge-sharing platform within the team
+* Consistently entrusted to support multiple teams, stepping into backend, frontend, and language parsing
+* Took an active role in the redesign of our team's AGILE methodology
 
 ### Customer Support Engineer | Dooblo | 2016
 * Created code-snippets for clients and full support in JavaScript
@@ -20,9 +21,9 @@ for which I have received an Innovation Recognition award
 
 ## TOOLS & SKILLS EXPERIENCE
 *	C#, JavaScript, E (skilled)
-*	AGILE software development (skilled)
 *	Object Oriented Programming (skilled)
-*	Version Control using Git, Perforce, ClearCase (skilled)
+*	AGILE software development (skilled)
+*	Version Control using Git, Perforce (skilled)
 *	Linux (basic)
 *	Application development using NodeJS (basic)
 *	Java, C, C++, Python (basic)
