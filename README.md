@@ -33,7 +33,7 @@ for which I have received an Innovation Recognition award
 * Visual Studio Code plugin for [Policy Models](https://datatagginglibrary.readthedocs.io/en/latest/index.html#):
 
 ### High School Education | Alliance Tel-Aviv | 2007 – 2011
-#### Computational Science Elective | Physics Elective HEMDA Center for Science Education | 2009 – 2011
+#### Computational Science Elective | Physics Elective | [HEMDA Center for Science Education](https://en.hemda.org.il/Info/?pageId=1) | 2009 – 2011
 #### Final Year Project: Prediction of alloy properties using Artificial Neural Network
 
 ## RECOMMENDATIONS & CERTIFICATES
