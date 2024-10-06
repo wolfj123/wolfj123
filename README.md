@@ -29,7 +29,7 @@ for which I have received an Innovation Recognition award
 *	Java, C, C++, Python (basic)
 
 ## EDUCATION
-### Bachelor of Software Engineering | Ben Gurion University | 2016 – 2020
+### Bachelor of Software Engineering | Ben Gurion University | 2017 – 2020
 #### University Project
 * Visual Studio Code plugin for [Policy Models](https://datatagginglibrary.readthedocs.io/en/latest/index.html#):
 
